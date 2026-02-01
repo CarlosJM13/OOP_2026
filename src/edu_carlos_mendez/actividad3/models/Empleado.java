@@ -5,7 +5,7 @@ package edu_carlos_mendez.actividad3.models;
 public class Empleado {
     private double salario;
     private int edad;
-    private String departamento; // Nuevo campo
+    private String departamento;
 
     public Empleado(double salario, int edad, String departamento) {
         this.salario = salario;
